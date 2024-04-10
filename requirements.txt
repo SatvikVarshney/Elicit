@@ -1,0 +1,4 @@
+streamlit
+PyPDF2
+google-generativeai
+altair==4.0.0
