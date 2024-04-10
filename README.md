@@ -6,11 +6,11 @@ Elicit is an advanced Generative AI  application based on Google's LLM designed 
 
 Elicit revolutionizes the way we interact with document contents by providing a direct, conversational interface. This tool not only facilitates the extraction of information from PDFs but also enhances user engagement with textual content. Through the use of cutting-edge AI technology, Elicit ensures that users can engage with their documents in a more intuitive and efficient manner.
 
-### Sample Snapshot
+### Sample Demonstration Overview
 
 ![image](https://github.com/SatvikVarshney/Elicit/assets/114079530/27ff69ca-81d1-4afe-8180-1fe9b2f3c2e4)
 
-The Sample Snapshot conversation with Elicit is based on the information contained in the PDF "Bridging The Divide". The sample PDF is available in the 'Sample PDFs' Folder.
+This sample demonstration showcases a conversation with Elicit, based on information extracted from the PDF titled "Bridging The Divide." For those interested in exploring this interaction further, the sample PDF is available in the 'Sample PDFs' folder.
 
 
 ## Key Features
