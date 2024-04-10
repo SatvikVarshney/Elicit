@@ -10,7 +10,7 @@ Elicit revolutionizes the way we interact with document contents by providing a 
 
 ![image](https://github.com/SatvikVarshney/Elicit/assets/114079530/27ff69ca-81d1-4afe-8180-1fe9b2f3c2e4)
 
-The Sample Snapshot conversation with Elicit is based on the infomration contained in the PDF "Bridging The Divide". The sample PDF is available in the 'Sample PDFs' Folder.
+The Sample Snapshot conversation with Elicit is based on the information contained in the PDF "Bridging The Divide". The sample PDF is available in the 'Sample PDFs' Folder.
 
 
 ## Key Features
