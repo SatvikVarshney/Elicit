@@ -23,15 +23,15 @@ The Sample Snapshot conversation with Elicit is based on the infomration contain
 
 - **Interactive AI Conversations**: At the core of Elicit is the ability to ask questions about the document's content and receive AI-generated responses. This conversational approach makes it easier for users to obtain the information they need without manually searching through documents.
 
-### Further Targeted Features :
+### Planned Enhancements
 
-- **Improved Chat-Bot UI**: Further UI improvements for better User experience
+- **Enhanced Chat-Bot Interface**: The aim is to enhance the user interface of the chat-bot, ensuring a seamless and intuitive experience that elevates interaction and engagement.
 
-- **Versatile Extraction**: Current version is limited to text-based PDFs. Further changes should enable extraction from Images, Tables, Graphics and more 
+- **Advanced Data Extraction**: The current version supports text extraction from PDFs only. Future updates will expand capabilities to include extraction from images, tables, and graphics, significantly broadening the document processing range.
 
-- **Inter-docuemnt Processing**: Improvemnts in inter-docuemnt data processing for improved speed and memory effeciency
+- **Inter-Document Processing Efficiency**: Improvements are targeted towards enhancing the efficiency of processing across multiple documents. Key priorities include optimizations in speed and memory, aiming for a robust and swift user experience.
 
-- **Improved Accessibility**: Improvements in accessibility of the app to allow for Web access and eliminating need for unique google API Key for each individual access
+- **Accessibility and Ease of Use**: Efforts are directed towards making the application more accessible, including enabling web access and simplifying the setup process. This includes removing the necessity for a unique Google API key for each user, making the tool more straightforward and user-friendly.
 
 
 ## How It Works
